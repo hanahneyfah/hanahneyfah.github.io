@@ -1,4 +1,4 @@
-<?php include 'hanahneyfah.github.io/teknisi/comp/header.php'; ?>
+<?php include 'comp/header.php'; ?>
 <?php 
 
 /*date_default_timezone_set("Asia/Jakarta");
@@ -266,4 +266,4 @@ if (isset($_POST['simpan_ket'])) {
 </div>
 
 </div>
-<?php include 'hanahneyfah.github.io/teknisi/comp/footer.php'; ?>
+<?php include 'comp/footer.php'; ?>
