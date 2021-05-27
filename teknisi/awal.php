@@ -1,4 +1,4 @@
-<?php include 'comp/header.php'; ?>
+<?php include 'hanahneyfah.github.io/header.php'; ?>
 <?php 
 
 /*date_default_timezone_set("Asia/Jakarta");
